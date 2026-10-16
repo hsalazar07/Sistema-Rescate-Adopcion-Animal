@@ -1,0 +1,90 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="GE2XpKvgH2Q5XZK7DSKC">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T1NEx4rGBqaOm-KkwLJ_-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Ciudadano /&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Reportante&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="40" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="T1NEx4rGBqaOm-KkwLJ_-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Administrador&amp;nbsp;&lt;div&gt;del refugio&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="40" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="T1NEx4rGBqaOm-KkwLJ_-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Voluntario&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;/&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Veterinario&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="765" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="T1NEx4rGBqaOm-KkwLJ_-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="570" width="520" x="160" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="T1NEx4rGBqaOm-KkwLJ_-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Sistema de Control de Rescate y Adopción Animal&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="520" x="160" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="T1NEx4rGBqaOm-KkwLJ_-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Reportar animal en riesgo&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="T1NEx4rGBqaOm-KkwLJ_-12" edge="1" parent="1" source="T1NEx4rGBqaOm-KkwLJ_-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;edgeStyle=orthogonalEdgeStyle;curved=1;curveGeometry=1;" target="T1NEx4rGBqaOm-KkwLJ_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T1NEx4rGBqaOm-KkwLJ_-14" edge="1" parent="1" source="T1NEx4rGBqaOm-KkwLJ_-13" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;curved=1;curveGeometry=1;" target="T1NEx4rGBqaOm-KkwLJ_-2">
+          <mxGeometry relative="1" x="0.0441" as="geometry">
+            <mxPoint x="80" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T1NEx4rGBqaOm-KkwLJ_-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Registrar caso de rescate&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="T1NEx4rGBqaOm-KkwLJ_-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Categorizar especie&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="T1NEx4rGBqaOm-KkwLJ_-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Asignar voluntario o veterinario&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="T1NEx4rGBqaOm-KkwLJ_-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Consultar casos de rescate&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="T1NEx4rGBqaOm-KkwLJ_-19" edge="1" parent="1" source="T1NEx4rGBqaOm-KkwLJ_-15" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;curved=1;curveGeometry=1;" target="T1NEx4rGBqaOm-KkwLJ_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T1NEx4rGBqaOm-KkwLJ_-20" edge="1" parent="1" source="T1NEx4rGBqaOm-KkwLJ_-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="T1NEx4rGBqaOm-KkwLJ_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T1NEx4rGBqaOm-KkwLJ_-21" edge="1" parent="1" source="T1NEx4rGBqaOm-KkwLJ_-17" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;curved=1;curveGeometry=1;" target="T1NEx4rGBqaOm-KkwLJ_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T1NEx4rGBqaOm-KkwLJ_-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Consultar notificaciones de rescate&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="485" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="T1NEx4rGBqaOm-KkwLJ_-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Consultar casos asignados&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="490" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="T1NEx4rGBqaOm-KkwLJ_-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Actualizar estado de atención&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="490" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="T1NEx4rGBqaOm-KkwLJ_-26" edge="1" parent="1" source="T1NEx4rGBqaOm-KkwLJ_-22" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;curveGeometry=1;endArrow=none;endFill=0;" target="T1NEx4rGBqaOm-KkwLJ_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T1NEx4rGBqaOm-KkwLJ_-27" edge="1" parent="1" source="T1NEx4rGBqaOm-KkwLJ_-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="T1NEx4rGBqaOm-KkwLJ_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T1NEx4rGBqaOm-KkwLJ_-28" edge="1" parent="1" source="T1NEx4rGBqaOm-KkwLJ_-25" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;curved=1;curveGeometry=1;" target="T1NEx4rGBqaOm-KkwLJ_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TNtTcmjAwWcgpOcWEMcg-5" edge="1" parent="1" source="TNtTcmjAwWcgpOcWEMcg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="TNtTcmjAwWcgpOcWEMcg-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TNtTcmjAwWcgpOcWEMcg-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Solicitar adopción" vertex="1">
+          <mxGeometry height="60" width="120" x="490" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="TNtTcmjAwWcgpOcWEMcg-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Solicitante de&amp;nbsp;&lt;div&gt;adopción&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="765" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="VE8O9mcCCz4m_LQ0HwTd-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Gestionar solicitudes de adopción" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="VE8O9mcCCz4m_LQ0HwTd-2" edge="1" parent="1" source="VE8O9mcCCz4m_LQ0HwTd-1" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;curveGeometry=1;endArrow=none;endFill=0;" target="T1NEx4rGBqaOm-KkwLJ_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
