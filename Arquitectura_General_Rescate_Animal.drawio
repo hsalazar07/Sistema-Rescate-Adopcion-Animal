@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="XFynw-UnP46-ui8rVAD4">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WT-HbQvtgzqN4kOMy-Qv-13" edge="1" parent="1" source="WT-HbQvtgzqN4kOMy-Qv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="WT-HbQvtgzqN4kOMy-Qv-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="60" />
+              <mxPoint x="40" y="280" />
+            </Array>
+            <mxPoint x="40" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WT-HbQvtgzqN4kOMy-Qv-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Capa de presentación" vertex="1">
+          <mxGeometry height="40" width="520" x="80" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WT-HbQvtgzqN4kOMy-Qv-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Capa de lógica de negocio" vertex="1">
+          <mxGeometry height="40" width="520" x="80" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="WT-HbQvtgzqN4kOMy-Qv-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Capa de datos" vertex="1">
+          <mxGeometry height="40" width="520" x="80" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="WT-HbQvtgzqN4kOMy-Qv-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Interfaz del&amp;nbsp;&lt;div&gt;ciudadano&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="150" x="80" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WT-HbQvtgzqN4kOMy-Qv-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Interfaz del&amp;nbsp;&lt;div&gt;administrador&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="230" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WT-HbQvtgzqN4kOMy-Qv-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Interfaz del&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;voluntario / veterinario&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="220" x="380" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WT-HbQvtgzqN4kOMy-Qv-15" edge="1" parent="1" source="WT-HbQvtgzqN4kOMy-Qv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="WT-HbQvtgzqN4kOMy-Qv-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="330" />
+              <mxPoint x="40" y="480" />
+            </Array>
+            <mxPoint x="40" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WT-HbQvtgzqN4kOMy-Qv-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GestorCasosRescate (Singleton)" vertex="1">
+          <mxGeometry height="60" width="130" x="80" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="WT-HbQvtgzqN4kOMy-Qv-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Creación de animales (Factory Method)" vertex="1">
+          <mxGeometry height="60" width="140" x="210" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="WT-HbQvtgzqN4kOMy-Qv-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Gestión de&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;notificaciones (Observer)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="350" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="WT-HbQvtgzqN4kOMy-Qv-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Datos de casos&amp;nbsp;&lt;div&gt;de rescate&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="140" x="80" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="WT-HbQvtgzqN4kOMy-Qv-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Datos de animales" vertex="1">
+          <mxGeometry height="60" width="130" x="220" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="WT-HbQvtgzqN4kOMy-Qv-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Datos de responsables&amp;nbsp;&lt;div&gt;y notificaciones&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="140" x="350" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="WT-HbQvtgzqN4kOMy-Qv-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Solicitudes de usuarios" vertex="1">
+          <mxGeometry height="30" width="150" x="40" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="WT-HbQvtgzqN4kOMy-Qv-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Consultas y almacenamiento de datos" vertex="1">
+          <mxGeometry height="30" width="210" x="45" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="mBP9O-4Mg8pCE23oc2SH-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Gestión de adopciones" vertex="1">
+          <mxGeometry height="60" width="100" x="500" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="mBP9O-4Mg8pCE23oc2SH-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Datos de adopciones" vertex="1">
+          <mxGeometry height="60" width="110" x="490" y="500" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
